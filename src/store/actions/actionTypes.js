@@ -1,0 +1,19 @@
+export const AUTH_START = "AUTH_START";
+export const AUTH_SUCCESS = "AUTH_SUCCESS";
+export const AUTH_FAIL = "AUTH_FAIL";
+export const AUTH_LOGOUT = "AUTH_LOGOUT";
+
+export const SET_AUTH_REDIRECT_PATH = "SET_AUTH_REDIRECT_PATH";
+
+export const UPDATE_START = "UPDATE_START";
+export const UPDATE_SUCCESS = "UPDATE_SUCCESS";
+export const UPDATE_FAIL = "UPDATE_FAIL";
+
+export const DELETE_START = "DELETE_START";
+export const DELETE_SUCCESS = "DELETE_SUCCESS";
+export const DELETE_FAIL = "DELETE_FAIL";
+
+export const TOGGLE_FAV = "TOGGLE_FAV";
+export const GET_MOVIES_START = "GET_MOVIES_START";
+export const GET_MOVIES_FAIL = "GET_MOVIES_FAIL";
+export const GET_MOVIES_SUCCESS = "GET_MOVIES_SUCCESS";

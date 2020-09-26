@@ -1,0 +1,11 @@
+.Nav {
+  background: #cfe8e8;
+  padding: 10px 0;
+}
+
+.Link {
+  color: #595f5f;
+}
+.Link:hover {
+  color: rgb(0, 0, 0) !important;
+}

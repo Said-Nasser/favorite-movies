@@ -1,0 +1,12 @@
+
+.Invalid {
+    outline: none;
+    border: 1px solid red;
+    background-color: #FDA49A;
+}
+.Invalid:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.2rem rgba(253, 164, 154, 0.25);
+    border: 1px solid red;
+    background-color: #FDA49A;
+}
